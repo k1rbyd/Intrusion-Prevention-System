@@ -1,5 +1,5 @@
 
-# Intrusion-Prevention-System (IFS)
+# Intrusion Prevention System (IFS)
 
 ## Description
 
